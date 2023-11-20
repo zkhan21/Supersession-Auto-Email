@@ -26,7 +26,7 @@ columns_to_extract = [
 smtp_server = 'rb-smtp-int.bosch.com'
 smtp_port = 25
 sender_email = 'Zuhair.Khan@us.bosch.com'
-sender_password = 'Sanrrt088888'  # Change this to your actual password
+sender_password = ''
 
 for email, group_data in grouped:
     subject = 'Weekly Supersession Tracker'
