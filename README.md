@@ -8,3 +8,6 @@ What does the program do?
   - Parses the downloadable excel report, extracts data from specified columns, checks email list file (not included in github), sends the individual who is responsible for that supersession part
     info on the next steps and to-do tasks.
 
+Languages used?
+  - Python, HTML (for email structure and neatness)
+
